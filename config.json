@@ -1,0 +1,68 @@
+{
+  "config": {
+    "Gema Takbir": {
+      "ad_network": "applovin",
+      "admob_id_unit_banner_1": "ca-app-pub-3940256099942544/6300978111",
+      "admob_id_unit_interstisial_1": "ca-app-pub-2620371422128173/7014466840",
+      "admob_id_unit_nativead_1": "ca-app-pub-2620371422128173/2546159674",
+      "admob_id_unit_openad_1": "ca-app-pub-2620371422128173/5701385176",
+      "app_id_admob": "",
+      "applovin_id_unit_banner_1": "",
+      "applovin_id_unit_interstisial_1": "6599acecaec100f1",
+      "applovin_id_unit_nativead_1": "fabd8880ea4cd371",
+      "applovin_id_unit_openad_1": "eecda894d20ca606",
+      "fan_id_aplikasi": "",
+      "fan_placement_banner_1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_placement_interstisial_1": "769912474490680_769912764490651",
+      "fan_placement_native_1": "769912474490680_769912864490641"
+    },
+    "Wallpapers Dog": {
+      "ad_network": "applovin",
+      "admob_id_unit_banner_1": "ca-app-pub-3940256099942544/6300978111",
+      "admob_id_unit_interstisial_1": "ca-app-pub-2620371422128173/7014466840",
+      "admob_id_unit_nativead_1": "ca-app-pub-2620371422128173/2546159674",
+      "admob_id_unit_openad_1": "ca-app-pub-2620371422128173/5701385176",
+      "app_id_admob": "",
+      "applovin_id_unit_banner_1": "",
+      "applovin_id_unit_interstisial_1": "35afa9e6e216b835",
+      "applovin_id_unit_nativead_1": "a783168b0d1dd7a1",
+      "applovin_id_unit_openad_1": "76157af32183f6d3",
+      "fan_id_aplikasi": "",
+      "fan_placement_banner_1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_placement_interstisial_1": "769912474490680_769912764490651",
+      "fan_placement_native_1": "769912474490680_769912864490641"
+    },
+    "Wallpapers Love": {
+      "ad_network": "applovin",
+      "admob_id_unit_banner_1": "ca-app-pub-3940256099942544/6300978111",
+      "admob_id_unit_interstisial_1": "ca-app-pub-2620371422128173/7014466840",
+      "admob_id_unit_nativead_1": "ca-app-pub-2620371422128173/2546159674",
+      "admob_id_unit_openad_1": "ca-app-pub-2620371422128173/5701385176",
+      "app_id_admob": "",
+      "applovin_id_unit_banner_1": "",
+      "applovin_id_unit_interstisial_1": "7022df44cd96b21e",
+      "applovin_id_unit_nativead_1": "1393d067d3b67e75",
+      "applovin_id_unit_openad_1": "a4a3bdb732136c5a",
+      "fan_id_aplikasi": "",
+      "fan_placement_banner_1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_placement_interstisial_1": "769912474490680_769912764490651",
+      "fan_placement_native_1": "769912474490680_769912864490641"
+    },
+    "Wallpapers Texture": {
+      "ad_network": "applovin",
+      "admob_id_unit_banner_1": "ca-app-pub-3940256099942544/6300978111",
+      "admob_id_unit_interstisial_1": "ca-app-pub-2620371422128173/7014466840",
+      "admob_id_unit_nativead_1": "ca-app-pub-2620371422128173/2546159674",
+      "admob_id_unit_openad_1": "ca-app-pub-2620371422128173/5701385176",
+      "app_id_admob": "",
+      "applovin_id_unit_banner_1": "",
+      "applovin_id_unit_interstisial_1": "eabf41a03df85e79",
+      "applovin_id_unit_nativead_1": "6e85d1a9065ef537",
+      "applovin_id_unit_openad_1": "eb701f6f5bcd930d\t",
+      "fan_id_aplikasi": "",
+      "fan_placement_banner_1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_placement_interstisial_1": "769912474490680_769912764490651",
+      "fan_placement_native_1": "769912474490680_769912864490641"
+    }
+  }
+}
